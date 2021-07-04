@@ -1,9 +1,6 @@
 # FEM Easybank React Landing Page Conversion
 This project is a React Framework conversion for Frontend Mentor's Easybank Landing Page.
 
-[![Landing Page Screenshot][landing-page--screenshot]](https://github.com/adrianrtownsend/react-website-one/blob/main/src/assets/images/landing-page-screenshot-full.png)
-
-
 Link for original code challenge [here](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
 
 Starting project source code provided by [github.com/thecodercoder](https://github.com/thecodercoder/fem-easybank)
