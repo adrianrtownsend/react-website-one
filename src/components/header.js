@@ -42,16 +42,16 @@ function Header() {
         </a>
 
         <div className="header__links hide-for-mobile">
-          <a href="#">Home</a>
-          <a href="#">About</a>
-          <a href="#">Contact</a>
-          <a href="#">Blog</a>
-          <a href="#">Careers</a>
+          <a href="/">Home</a>
+          <a href="/">About</a>
+          <a href="/">Contact</a>
+          <a href="/">Blog</a>
+          <a href="/">Careers</a>
         </div>
 
-        <a href="#" className="button header__cta hide-for-mobile">Request Invite</a> 
+        <a href="/" className="button header__cta hide-for-mobile">Request Invite</a> 
         
-        <a id="btnHamburger" onClick={btnHamburgerClick} href="#" className="header__toggle hide-for-desktop">
+        <a id="btnHamburger" onClick={btnHamburgerClick} href="/" className="header__toggle hide-for-desktop">
           <span/>
           <span/>
           <span/>
@@ -59,11 +59,11 @@ function Header() {
       </nav>
 
       <div className="header__menu has-fade">
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
-        <a href="#">Blog</a>
-        <a href="#">Careers</a>
+        <a href="/">Home</a>
+        <a href="/">About</a>
+        <a href="/">Contact</a>
+        <a href="/">Blog</a>
+        <a href="/">Careers</a>
       </div>
     </header>
   );
