@@ -51,7 +51,7 @@ function Header() {
 
         <a href="/" className="button header__cta hide-for-mobile">Request Invite</a> 
         
-        <a id="btnHamburger" onClick={btnHamburgerClick} href="/" className="header__toggle hide-for-desktop">
+        <a id="btnHamburger" onClick={btnHamburgerClick} href="javascript:void(0)" className="header__toggle hide-for-desktop">
           <span/>
           <span/>
           <span/>
