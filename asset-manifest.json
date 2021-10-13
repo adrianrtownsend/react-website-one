@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-website-one/static/css/main.4ba46c19.chunk.css",
-    "main.js": "/react-website-one/static/js/main.c3feaeeb.chunk.js",
-    "main.js.map": "/react-website-one/static/js/main.c3feaeeb.chunk.js.map",
-    "runtime-main.js": "/react-website-one/static/js/runtime-main.fee059af.js",
-    "runtime-main.js.map": "/react-website-one/static/js/runtime-main.fee059af.js.map",
-    "static/js/2.54943d23.chunk.js": "/react-website-one/static/js/2.54943d23.chunk.js",
-    "static/js/2.54943d23.chunk.js.map": "/react-website-one/static/js/2.54943d23.chunk.js.map",
-    "static/js/3.4d8d1add.chunk.js": "/react-website-one/static/js/3.4d8d1add.chunk.js",
-    "static/js/3.4d8d1add.chunk.js.map": "/react-website-one/static/js/3.4d8d1add.chunk.js.map",
+    "main.js": "/react-website-one/static/js/main.8960fc2f.chunk.js",
+    "main.js.map": "/react-website-one/static/js/main.8960fc2f.chunk.js.map",
+    "runtime-main.js": "/react-website-one/static/js/runtime-main.e658601e.js",
+    "runtime-main.js.map": "/react-website-one/static/js/runtime-main.e658601e.js.map",
+    "static/js/2.904b9b0c.chunk.js": "/react-website-one/static/js/2.904b9b0c.chunk.js",
+    "static/js/2.904b9b0c.chunk.js.map": "/react-website-one/static/js/2.904b9b0c.chunk.js.map",
+    "static/js/3.d0523767.chunk.js": "/react-website-one/static/js/3.d0523767.chunk.js",
+    "static/js/3.d0523767.chunk.js.map": "/react-website-one/static/js/3.d0523767.chunk.js.map",
     "index.html": "/react-website-one/index.html",
     "static/css/main.4ba46c19.chunk.css.map": "/react-website-one/static/css/main.4ba46c19.chunk.css.map",
-    "static/js/2.54943d23.chunk.js.LICENSE.txt": "/react-website-one/static/js/2.54943d23.chunk.js.LICENSE.txt",
+    "static/js/2.904b9b0c.chunk.js.LICENSE.txt": "/react-website-one/static/js/2.904b9b0c.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/react-website-one/static/media/image-mockups.48d35b17.png",
     "static/media/icon-api.74c8ad17.svg": "/react-website-one/static/media/icon-api.74c8ad17.svg",
     "static/media/icon-budgeting.ad716997.svg": "/react-website-one/static/media/icon-budgeting.ad716997.svg",
@@ -25,9 +25,9 @@
     "static/media/logo.4d7cebc5.svg": "/react-website-one/static/media/logo.4d7cebc5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fee059af.js",
-    "static/js/2.54943d23.chunk.js",
+    "static/js/runtime-main.e658601e.js",
+    "static/js/2.904b9b0c.chunk.js",
     "static/css/main.4ba46c19.chunk.css",
-    "static/js/main.c3feaeeb.chunk.js"
+    "static/js/main.8960fc2f.chunk.js"
   ]
 }
