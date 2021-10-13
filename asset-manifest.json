@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-website-one/static/css/main.4ba46c19.chunk.css",
+    "main.js": "/react-website-one/static/js/main.c3feaeeb.chunk.js",
+    "main.js.map": "/react-website-one/static/js/main.c3feaeeb.chunk.js.map",
+    "runtime-main.js": "/react-website-one/static/js/runtime-main.fee059af.js",
+    "runtime-main.js.map": "/react-website-one/static/js/runtime-main.fee059af.js.map",
+    "static/js/2.54943d23.chunk.js": "/react-website-one/static/js/2.54943d23.chunk.js",
+    "static/js/2.54943d23.chunk.js.map": "/react-website-one/static/js/2.54943d23.chunk.js.map",
+    "static/js/3.4d8d1add.chunk.js": "/react-website-one/static/js/3.4d8d1add.chunk.js",
+    "static/js/3.4d8d1add.chunk.js.map": "/react-website-one/static/js/3.4d8d1add.chunk.js.map",
+    "index.html": "/react-website-one/index.html",
+    "static/css/main.4ba46c19.chunk.css.map": "/react-website-one/static/css/main.4ba46c19.chunk.css.map",
+    "static/js/2.54943d23.chunk.js.LICENSE.txt": "/react-website-one/static/js/2.54943d23.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/react-website-one/static/media/image-mockups.48d35b17.png",
+    "static/media/icon-api.74c8ad17.svg": "/react-website-one/static/media/icon-api.74c8ad17.svg",
+    "static/media/icon-budgeting.ad716997.svg": "/react-website-one/static/media/icon-budgeting.ad716997.svg",
+    "static/media/icon-onboarding.d74aed64.svg": "/react-website-one/static/media/icon-onboarding.d74aed64.svg",
+    "static/media/icon-online.b0622b15.svg": "/react-website-one/static/media/icon-online.b0622b15.svg",
+    "static/media/image-confetti.67921b11.jpg": "/react-website-one/static/media/image-confetti.67921b11.jpg",
+    "static/media/image-currency.1b385bf9.jpg": "/react-website-one/static/media/image-currency.1b385bf9.jpg",
+    "static/media/image-plane.03db115d.jpg": "/react-website-one/static/media/image-plane.03db115d.jpg",
+    "static/media/image-restaurant.1951b576.jpg": "/react-website-one/static/media/image-restaurant.1951b576.jpg",
+    "static/media/logo-dark.fb10d5ec.svg": "/react-website-one/static/media/logo-dark.fb10d5ec.svg",
+    "static/media/logo.4d7cebc5.svg": "/react-website-one/static/media/logo.4d7cebc5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee059af.js",
+    "static/js/2.54943d23.chunk.js",
+    "static/css/main.4ba46c19.chunk.css",
+    "static/js/main.c3feaeeb.chunk.js"
+  ]
+}
