@@ -4,7 +4,7 @@ import logo from '../assets/images/logo.svg';
 
 const body = document.querySelector('body');
 const header = document.querySelector('.header');
-const overlay = document.querySelector('.overlay');
+//const overlay = document.querySelector('.overlay');
 const fadeElems = document.querySelectorAll('.has-fade');
 
 function btnHamburgerClick(e) {
