@@ -15,7 +15,7 @@ function Article() {
 
       <div className="article__grid">
 
-        <a href="/" className="article__item">
+        <a href="/react-website-one" className="article__item">
           <div className="article__image" style={{backgroundImage: `url(${imageCurrency})`}}></div>
           <div className="article__text">
             <div className="article__author">By Claire Robinson</div>
@@ -25,7 +25,7 @@ function Article() {
           </div>
         </a>
 
-        <a href="/" className="article__item">
+        <a href="/react-website-one" className="article__item">
           <div className="article__image" style={{backgroundImage: `url(${imageRestaurant})`}}></div>
           <div className="article__text">
             <div className="article__author">By Wilson Hutton</div>
@@ -35,7 +35,7 @@ function Article() {
           </div>
         </a>
 
-        <a href="/" className="article__item">
+        <a href="/react-website-one" className="article__item">
           <div className="article__image" style={{backgroundImage: `url(${imagePlane})`}}></div>
           <div className="article__text">
             <div className="article__author">By Wilson Hutton</div>
@@ -45,7 +45,7 @@ function Article() {
           </div>
         </a>
 
-        <a href="/" className="article__item">
+        <a href="/react-website-one" className="article__item">
           <div className="article__image" style={{backgroundImage: `url(${imageConfetti})`}}></div>
           <div className="article__text">
             <div className="article__author">By Claire Robinson</div>

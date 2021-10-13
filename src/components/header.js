@@ -20,19 +20,19 @@ function Header() {
     <header className={`header ${headerOpen ? '' : 'open'}`}>
       <div className={`overlay ${headerOpen ? 'fade-out' : 'fade-in'}`}/>
       <nav className="container container--pall flex flex-jc-sb flex-ai-c">
-        <a href="/" className="header__logo">
+        <a href="/react-website-one" className="header__logo">
           <img src={logo} alt="logo"/>
         </a>
 
         <div className="header__links hide-for-mobile">
-          <a href="/">Home</a>
-          <a href="/">About</a>
-          <a href="/">Contact</a>
-          <a href="/">Blog</a>
-          <a href="/">Careers</a>
+          <a href="/react-website-one">Home</a>
+          <a href="/react-website-one">About</a>
+          <a href="/react-website-one">Contact</a>
+          <a href="/react-website-one">Blog</a>
+          <a href="/react-website-one">Careers</a>
         </div>
 
-        <a href="/" className="button header__cta hide-for-mobile">Request Invite</a> 
+        <a href="/react-website-one" className="button header__cta hide-for-mobile">Request Invite</a> 
         
         <span id="btnHamburger" onClick={() => toggleHeader()} className="header__toggle hide-for-desktop">
           <span/>
@@ -42,11 +42,11 @@ function Header() {
       </nav>
 
       <div className={`header__menu ${headerOpen ? 'fade-out' : 'fade-in'}`}>
-        <a href="/">Home</a>
-        <a href="/">About</a>
-        <a href="/">Contact</a>
-        <a href="/">Blog</a>
-        <a href="/">Careers</a>
+        <a href="/react-website-one">Home</a>
+        <a href="/react-website-one">About</a>
+        <a href="/react-website-one">Contact</a>
+        <a href="/react-website-one">Blog</a>
+        <a href="/react-website-one">Careers</a>
       </div>
     </header>
   );
